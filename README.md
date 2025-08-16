@@ -2,7 +2,8 @@
 
 ![Preview](https://i.ibb.co/r2n8YXrw/preview.png)
 
-📥 **[Download for Windows (EXE)](https://github.com/cody-raves/overlay-builder/releases/download/windows/Overlaybuilder.exe](https://github.com/cody-raves/overlay-builder/releases/download/windows/Overlay-Builder.exe))**  
+📥 **[Download for Windows (EXE)](https://github.com/cody-raves/overlay-builder/releases/download/windows/Overlay-Builder.exe)**
+
 📹 **[Quick Usage Demo](https://streamable.com/3bfn0n)** — short walkthrough showing how to use the tool from start to finish.
 
 **Overlay Builder** is a Python + CustomTkinter desktop app that generates animated HTML/CSS overlays for streaming, video production, or live events.
